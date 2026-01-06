@@ -158,14 +158,6 @@ streamlit run app.py
 * Developed a deployable, user-friendly churn prediction system
 * Designed for both **academic evaluation and industry use**
 
----
-
-## Future Enhancements
-
-* Try advanced models like LightGBM or CatBoost
-* Add profit-based optimization for retention strategies
-* Extend the pipeline to other industries (banking, SaaS, OTT)
-* Deploy the application on cloud platforms
 
 ---
 

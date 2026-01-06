@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Virtual environments
+venv/
+.venv/
+env/
+anaconda_projects/
+
+# Data & outputs (IMPORTANT)
+data/
+datasets/
+outputs/
+models/
+artifacts/
+logs/
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+
+# VS Code
+.vscode/
